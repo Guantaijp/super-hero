@@ -1,4 +1,4 @@
-### SUPERHEROES
+### SUPERHEROES by Rawllings
 
 ## Description
 This is a simple Rails API backend for tracking heroes and their superpowers.
